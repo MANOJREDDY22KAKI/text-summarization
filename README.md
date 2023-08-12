@@ -66,5 +66,5 @@ By following these steps, you should be able to resolve the "module not found" e
 
 TO RUN THIS PROJECT:
 go to cmd and navigate to project folder 
-and 
+and  type
          python app.py
