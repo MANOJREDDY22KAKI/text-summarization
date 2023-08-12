@@ -60,3 +60,11 @@ from flask import Flask, render_template, request
 
 
 By following these steps, you should be able to resolve the "module not found" error and work with the Flask framework and related modules in VS Code.
+
+
+
+
+TO RUN THIS PROJECT:
+go to cmd and navigate to project folder 
+and 
+         python app.py
